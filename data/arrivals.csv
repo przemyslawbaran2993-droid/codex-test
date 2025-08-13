@@ -1,6 +1,6 @@
 planned_time;flight_number;from;status;airline
-TENERIFE SOUTH (TFS);FR 2654;Oczekiwany 00:35;Szczegóły lotu;
-BARCELONA (BCN);FR 3035;Oczekiwany 00:58;Szczegóły lotu;
+TENERIFE SOUTH (TFS);FR 2654;Wylądował 00:35;Szczegóły lotu;
+BARCELONA (BCN);FR 3035;Oczekiwany 01:01;Szczegóły lotu;
 BURGAS (BOJ);RR 7116;;Szczegóły lotu;
 ANTALIA (AYT);XQ 432;;Szczegóły lotu;
 MEDIOLAN BERGAMO (BGY);FR 3504;;Szczegóły lotu;
@@ -120,8 +120,8 @@ MALAGA (AGP);W6 2074;;Szczegóły lotu;
 WALENCJA (VLC);W6 2080;;Szczegóły lotu;
 MALTA (MLA);FR 7114;;Szczegóły lotu;
 FARO (FAO);FR 2838;;Szczegóły lotu;
+TURYN (TRN);FR 5905;;Szczegóły lotu;
 KORFU (CFU);FR 6963;;Szczegóły lotu;
 BARCELONA GIRONA (GRO);FR 8673;;Szczegóły lotu;
-TURYN (TRN);FR 5905;;Szczegóły lotu;
 SZCZECIN (SZZ);FR 6231;;Szczegóły lotu;
 PESCARA (PSR);FR 3046;;Szczegóły lotu;
