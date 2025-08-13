@@ -2,10 +2,11 @@
   "name": "codex-test",
   "version": "1.0.0",
   "scripts": {
-    "start": "node index.js",
     "scrape": "node scrape.js"
   },
   "dependencies": {
+    "axios": "^1.6.7",
+    "dayjs": "^1.11.10",
     "playwright": "^1.54.2"
   }
 }
