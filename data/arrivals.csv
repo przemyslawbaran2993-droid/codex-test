@@ -1,9 +1,4 @@
 planned_time;flight_number;from;status;airline
-TURYN (TRN);FR 5905;Wylądował 00:34;Szczegóły lotu;
-KORFU (CFU);FR 6963;Wylądował 00:48;Szczegóły lotu;
-BARCELONA GIRONA (GRO);FR 8673;Oczekiwany 01:03;Szczegóły lotu;
-SZCZECIN (SZZ);FR 6231;Oczekiwany 01:28;Szczegóły lotu;
-PESCARA (PSR);FR 3046;Oczekiwany 00:52;Szczegóły lotu;
 SOFIA (SOF);W6 4453;;Szczegóły lotu;
 SZTOKHOLM ARLANDA (ARN);FR 4626;;Szczegóły lotu;
 RYGA (RIX);FR 5429;;Szczegóły lotu;
@@ -21,7 +16,7 @@ ZURYCH (ZRH);LX 1370;;Szczegóły lotu;
 ATENY (ATH);A3 868;;Szczegóły lotu;
 LIVERPOOL (LPL);FR 6360;;Szczegóły lotu;
 LEEDS BRADFORD (LBA);FR 2332;;Szczegóły lotu;
-CHICAGO (ORD);LO 010;;Szczegóły lotu;
+CHICAGO (ORD);LO 010;Oczekiwany 09:18;Szczegóły lotu;
 KOPENHAGA (CPH);SK 1735;;Szczegóły lotu;
 KOPENHAGA (CPH);FR 2762;;Szczegóły lotu;
 BARI (BRI);FR 2723;;Szczegóły lotu;
