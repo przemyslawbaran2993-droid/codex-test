@@ -1,9 +1,9 @@
 planned_time;flight_number;from;status;airline
 TURYN (TRN);FR 5905;Wylądował 00:34;Szczegóły lotu;
-KORFU (CFU);FR 6963;Oczekiwany 00:46;Szczegóły lotu;
+KORFU (CFU);FR 6963;Wylądował 00:48;Szczegóły lotu;
 BARCELONA GIRONA (GRO);FR 8673;Oczekiwany 01:03;Szczegóły lotu;
-SZCZECIN (SZZ);FR 6231;;Szczegóły lotu;
-PESCARA (PSR);FR 3046;Oczekiwany 01:00;Szczegóły lotu;
+SZCZECIN (SZZ);FR 6231;Oczekiwany 01:28;Szczegóły lotu;
+PESCARA (PSR);FR 3046;Oczekiwany 00:52;Szczegóły lotu;
 SOFIA (SOF);W6 4453;;Szczegóły lotu;
 SZTOKHOLM ARLANDA (ARN);FR 4626;;Szczegóły lotu;
 RYGA (RIX);FR 5429;;Szczegóły lotu;
@@ -28,8 +28,8 @@ BARI (BRI);FR 2723;;Szczegóły lotu;
 MEDIOLAN BERGAMO (BGY);FR 3504;;Szczegóły lotu;
 LONDYN GATWICK (LGW);EZY 8821;;Szczegóły lotu;
 EDYNBURG (EDI);FR 6624;;Szczegóły lotu;
-NICEA (NCE);W6 2072;;Szczegóły lotu;
 ZADAR (ZAD);FR 7274;;Szczegóły lotu;
+NICEA (NCE);W6 2072;;Szczegóły lotu;
 BRUKSELA CHARLEROI (CRL);FR 4934;;Szczegóły lotu;
 FRANKFURT (FRA);LH 1362;;Szczegóły lotu;
 LONDYN STANSTED (STN);FR 2434;;Szczegóły lotu;
