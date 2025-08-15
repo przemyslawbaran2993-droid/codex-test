@@ -1,8 +1,8 @@
 planned_time;flight_number;from;status;airline
 WALENCJA (VLC);FR 2228;Wylądował 00:24;Szczegóły lotu;
 OSLO TORP (TRF);FR 6311;Wylądował 00:02;Szczegóły lotu;
-VARNA (VAR);FR 4738;Oczekiwany 00:43;Szczegóły lotu;
-GÖTEBORG LANDVETTER (GOT);FR 4011;Oczekiwany 00:56;Szczegóły lotu;
+VARNA (VAR);FR 4738;Wylądował 00:41;Szczegóły lotu;
+GÖTEBORG LANDVETTER (GOT);FR 4011;Oczekiwany 00:58;Szczegóły lotu;
 ANTALIA (AYT);RR 7200;;Szczegóły lotu;
 ANTALIA (AYT);XQ 432;;Szczegóły lotu;
 ANTALIA (AYT);FH 759;;Szczegóły lotu;
@@ -42,8 +42,8 @@ BARCELONA (BCN);W6 2048;;Szczegóły lotu;
 MARRAKESZ (RAK);FR 7103;;Szczegóły lotu;
 MEDIOLAN BERGAMO (BGY);FR 3504;;Szczegóły lotu;
 GLASGOW (GLA);FR 4204;;Szczegóły lotu;
-STAMBUŁ (IST);LO 140;;Szczegóły lotu;
 MONACHIUM (MUC);LH 1622;;Szczegóły lotu;
+STAMBUŁ (IST);LO 140;;Szczegóły lotu;
 EINDHOVEN (EIN);FR 043;;Szczegóły lotu;
 MALTA (MLA);FR 7114;;Szczegóły lotu;
 WALENCJA (VLC);W6 2080;;Szczegóły lotu;
