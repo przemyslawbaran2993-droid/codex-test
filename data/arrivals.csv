@@ -1,7 +1,5 @@
 planned_time;flight_number;from;status;airline
-AMSTERDAM (AMS);KL 1325;Wylądował 13:19;Szczegóły lotu;
-FRANKFURT (FRA);LH 1366;Oczekiwany 13:21;Szczegóły lotu;
-WIEDEŃ (VIE);OS 597;Lot opóźniony;Szczegóły lotu;
+WIEDEŃ (VIE);OS 597;Oczekiwany 14:24;Szczegóły lotu;
 WARSZAWA (WAW);LO 3905;;Szczegóły lotu;
 BURGAS (BOJ);FR 3715;;Szczegóły lotu;
 WIEDEŃ (VIE);FR 947;;Szczegóły lotu;
@@ -14,7 +12,7 @@ RYGA (RIX);FR 5429;;Szczegóły lotu;
 AMSTERDAM (AMS);KL 1327;Lot opóźniony;Szczegóły lotu;
 CAGLIARI (CAG);FR 4425;;Szczegóły lotu;
 SZTOKHOLM ARLANDA (ARN);FR 4626;;Szczegóły lotu;
-SHARJAH (SHJ);G9 748;Oczekiwany 17:01;Szczegóły lotu;
+SHARJAH (SHJ);G9 748;Oczekiwany 16:58;Szczegóły lotu;
 EINDHOVEN (EIN);W6 2076;;Szczegóły lotu;
 WARSZAWA (WAW);LO 3923;;Szczegóły lotu;
 OLBIA (OLB);FR 6735;;Szczegóły lotu;
@@ -122,9 +120,9 @@ ANTALIA (AYT);ENT 7740;;Szczegóły lotu;
 ZURYCH (ZRH);LX 1372;;Szczegóły lotu;
 OSLO GARDERMOEN (OSL);DY 1040;;Szczegóły lotu;
 WIEDEŃ (VIE);OS 597;;Szczegóły lotu;
+WENECJA TREVISO (TSF);FR 3038;;Szczegóły lotu;
 WARSZAWA (WAW);LO 3905;;Szczegóły lotu;
 PALERMO (PMO);LO 6644;;Szczegóły lotu;
-WENECJA TREVISO (TSF);FR 3038;;Szczegóły lotu;
 BAZYLEA (BSL);W6 2030;;Szczegóły lotu;
 MEMMINGEN (FMM);FR 2175;;Szczegóły lotu;
 BURGAS (BOJ);FR 3715;;Szczegóły lotu;
