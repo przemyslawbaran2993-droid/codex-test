@@ -1,13 +1,13 @@
 planned_time;flight_number;from;status;airline
-CAGLIARI (CAG);FR 4425;Oczekiwany 16:41;Szczegóły lotu;
+CAGLIARI (CAG);FR 4425;Wylądował 16:39;Szczegóły lotu;
 SZTOKHOLM ARLANDA (ARN);FR 4626;Oczekiwany 16:51;Szczegóły lotu;
-SHARJAH (SHJ);G9 748;Oczekiwany 16:56;Szczegóły lotu;
+SHARJAH (SHJ);G9 748;Oczekiwany 16:57;Szczegóły lotu;
 EINDHOVEN (EIN);W6 2076;Oczekiwany 17:46;Szczegóły lotu;
 WARSZAWA (WAW);LO 3923;;Szczegóły lotu;
 OLBIA (OLB);FR 6735;Oczekiwany 18:09;Szczegóły lotu;
-DUBAJ (DXB);FZ 1503;Oczekiwany 17:23;Szczegóły lotu;
-BARI (BRI);FR 2965;Oczekiwany 18:02;Szczegóły lotu;
-OSLO GARDERMOEN (OSL);W6 2034;Oczekiwany 18:05;Szczegóły lotu;
+DUBAJ (DXB);FZ 1503;Oczekiwany 17:24;Szczegóły lotu;
+BARI (BRI);FR 2965;Oczekiwany 18:01;Szczegóły lotu;
+OSLO GARDERMOEN (OSL);W6 2034;Oczekiwany 18:07;Szczegóły lotu;
 HELSINKI (HEL);AY 1163;;Szczegóły lotu;
 LONDYN GATWICK (LGW);W6 2008;Oczekiwany 18:25;Szczegóły lotu;
 BOLONIA (BLQ);W6 2060;;Szczegóły lotu;
@@ -134,8 +134,8 @@ EINDHOVEN (EIN);W6 2076;;Szczegóły lotu;
 WARSZAWA (WAW);LO 3923;;Szczegóły lotu;
 CHANIA (CHQ);FR 3052;;Szczegóły lotu;
 DUBAJ (DXB);FZ 1503;;Szczegóły lotu;
-OSLO GARDERMOEN (OSL);W6 2034;;Szczegóły lotu;
 ANTALIA (AYT);PC 1502;;Szczegóły lotu;
+OSLO GARDERMOEN (OSL);W6 2034;;Szczegóły lotu;
 HELSINKI (HEL);AY 1163;;Szczegóły lotu;
 PORTO (OPO);FR 3048;;Szczegóły lotu;
 FRANKFURT (FRA);LH 1368;;Szczegóły lotu;
