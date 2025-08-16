@@ -1,6 +1,6 @@
 planned_time;flight_number;from;status;airline
-PESCARA (PSR);FR 3046;Oczekiwany 21:42;Szczegóły lotu;
-MEDIOLAN BERGAMO (BGY);FR 888;Oczekiwany 22:51;Szczegóły lotu;
+PESCARA (PSR);FR 3046;Wylądował 21:40;Szczegóły lotu;
+MEDIOLAN BERGAMO (BGY);FR 888;Oczekiwany 22:50;Szczegóły lotu;
 AMSTERDAM (AMS);KL 1331;Oczekiwany 22:34;Szczegóły lotu;
 GDAŃSK (GDN);FR 236;;Szczegóły lotu;
 MANCHESTER (MAN);RK 2141;Oczekiwany 22:32;Szczegóły lotu;
@@ -15,7 +15,7 @@ LONDYN STANSTED (STN);FR 2432;;Szczegóły lotu;
 FRANKFURT (FRA);LH 1370;;Szczegóły lotu;
 WARSZAWA (WAW);LO 3911;;Szczegóły lotu;
 LONDYN GATWICK (LGW);W6 2010;;Szczegóły lotu;
-DUBLIN (DUB);FR 2023;Oczekiwany 23:52;Szczegóły lotu;
+DUBLIN (DUB);FR 2023;Oczekiwany 23:53;Szczegóły lotu;
 GENUA (GOA);W6 2028;;Szczegóły lotu;
 MEDIOLAN MALPENSA (MXP);W6 2068;;Szczegóły lotu;
 LYON (LYS);W6 2092;;Szczegóły lotu;
