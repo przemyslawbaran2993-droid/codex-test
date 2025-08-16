@@ -1,6 +1,6 @@
 planned_time;flight_number;from;status;airline
-WIEDEŃ (VIE);OS 597;Oczekiwany 14:24;Szczegóły lotu;
-WARSZAWA (WAW);LO 3905;;Szczegóły lotu;
+WIEDEŃ (VIE);OS 597;Oczekiwany 14:27;Szczegóły lotu;
+WARSZAWA (WAW);LO 3905;Oczekiwany 14:16;Szczegóły lotu;
 BURGAS (BOJ);FR 3715;;Szczegóły lotu;
 WIEDEŃ (VIE);FR 947;;Szczegóły lotu;
 ATENY (ATH);FR 2610;;Szczegóły lotu;
@@ -12,7 +12,7 @@ RYGA (RIX);FR 5429;;Szczegóły lotu;
 AMSTERDAM (AMS);KL 1327;Lot opóźniony;Szczegóły lotu;
 CAGLIARI (CAG);FR 4425;;Szczegóły lotu;
 SZTOKHOLM ARLANDA (ARN);FR 4626;;Szczegóły lotu;
-SHARJAH (SHJ);G9 748;Oczekiwany 16:58;Szczegóły lotu;
+SHARJAH (SHJ);G9 748;Oczekiwany 17:00;Szczegóły lotu;
 EINDHOVEN (EIN);W6 2076;;Szczegóły lotu;
 WARSZAWA (WAW);LO 3923;;Szczegóły lotu;
 OLBIA (OLB);FR 6735;;Szczegóły lotu;
