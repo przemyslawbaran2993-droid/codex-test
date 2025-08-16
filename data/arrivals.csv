@@ -1,8 +1,8 @@
 planned_time;flight_number;from;status;airline
 PAFOS (PFO);FR 5086;Wylądował 18:20;Szczegóły lotu;
-BOLONIA (BLQ);FR 5439;Oczekiwany 19:01;Szczegóły lotu;
+BOLONIA (BLQ);FR 5439;Oczekiwany 19:03;Szczegóły lotu;
 BUKARESZT BANEASA (BBU);W6 2058;Wylądował 18:40;Szczegóły lotu;
-PODGORICA (TGD);FR 7934;Oczekiwany 19:41;Szczegóły lotu;
+PODGORICA (TGD);FR 7934;Oczekiwany 19:39;Szczegóły lotu;
 ALICANTE (ALC);FR 6356;Oczekiwany 20:26;Szczegóły lotu;
 ANKONA (AOI);FR 4491;Oczekiwany 19:34;Szczegóły lotu;
 MEDIOLAN MALPENSA (MXP);FR 4463;;Szczegóły lotu;
@@ -17,7 +17,7 @@ AMSTERDAM (AMS);KL 1331;;Szczegóły lotu;
 GDAŃSK (GDN);FR 236;;Szczegóły lotu;
 MANCHESTER (MAN);RK 2141;;Szczegóły lotu;
 LONDYN LUTON (LTN);FR 1813;;Szczegóły lotu;
-DUBAJ (DXB);FZ 1785;Oczekiwany 22:16;Szczegóły lotu;
+DUBAJ (DXB);FZ 1785;Oczekiwany 22:17;Szczegóły lotu;
 PARYŻ ORLY (ORY);LO 338;;Szczegóły lotu;
 RZYM CIAMPINO (CIA);FR 082;;Szczegóły lotu;
 MONACHIUM (MUC);LH 1626;;Szczegóły lotu;
