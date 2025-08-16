@@ -1,13 +1,8 @@
 planned_time;flight_number;from;status;airline
-PAFOS (PFO);FR 5086;Wylądował 18:20;Szczegóły lotu;
-BOLONIA (BLQ);FR 5439;Oczekiwany 19:03;Szczegóły lotu;
-BUKARESZT BANEASA (BBU);W6 2058;Wylądował 18:40;Szczegóły lotu;
-PODGORICA (TGD);FR 7934;Oczekiwany 19:39;Szczegóły lotu;
-ALICANTE (ALC);FR 6356;Oczekiwany 20:26;Szczegóły lotu;
-ANKONA (AOI);FR 4491;Oczekiwany 19:34;Szczegóły lotu;
-MEDIOLAN MALPENSA (MXP);FR 4463;;Szczegóły lotu;
+ANKONA (AOI);FR 4491;Oczekiwany 19:37;Szczegóły lotu;
+MEDIOLAN MALPENSA (MXP);FR 4463;Oczekiwany 20:37;Szczegóły lotu;
 MALAGA (AGP);FR 2588;Oczekiwany 21:00;Szczegóły lotu;
-NEAPOL (NAP);FR 4045;;Szczegóły lotu;
+NEAPOL (NAP);FR 4045;Oczekiwany 20:40;Szczegóły lotu;
 WARSZAWA (WAW);LO 3921;;Szczegóły lotu;
 TRIEST (TRS);FR 6783;;Szczegóły lotu;
 PIZA (PSA);FR 7939;;Szczegóły lotu;
