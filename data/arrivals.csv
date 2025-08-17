@@ -1,8 +1,8 @@
 planned_time;flight_number;from;status;airline
 MADRYT (MAD);FR 5356;Wylądował 00:30;Szczegóły lotu;
 LONDYN STANSTED (STN);FR 2432;Oczekiwany 01:05;Szczegóły lotu;
-BOURNEMOUTH (BOH);FR 5523;Oczekiwany 01:02;Szczegóły lotu;
-SALONIKI (SKG);FR 2778;Oczekiwany 01:51;Szczegóły lotu;
+BOURNEMOUTH (BOH);FR 5523;Oczekiwany 01:04;Szczegóły lotu;
+SALONIKI (SKG);FR 2778;Oczekiwany 01:50;Szczegóły lotu;
 MALTA (MLA);FR 7114;Oczekiwany 01:45;Szczegóły lotu;
 ANTALIA (AYT);XQ 432;;Szczegóły lotu;
 KOPENHAGA (CPH);FR 2725;;Szczegóły lotu;
@@ -81,8 +81,8 @@ MARSYLIA (MRS);FR 5413;;Szczegóły lotu;
 BARI (BRI);FR 2723;;Szczegóły lotu;
 MONACHIUM (MUC);EN 8342;;Szczegóły lotu;
 BARCELONA GIRONA (GRO);FR 8673;;Szczegóły lotu;
-BURGAS (BOJ);FR 3715;;Szczegóły lotu;
 WARSZAWA (WAW);LO 3919;;Szczegóły lotu;
+BURGAS (BOJ);FR 3715;;Szczegóły lotu;
 WIEDEŃ (VIE);FR 947;;Szczegóły lotu;
 AMSTERDAM (AMS);KL 1327;;Szczegóły lotu;
 ANTALIA (AYT);FH 759;;Szczegóły lotu;
