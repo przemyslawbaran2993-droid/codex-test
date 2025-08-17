@@ -1,20 +1,20 @@
 planned_time;flight_number;from;status;airline
 MONACHIUM (MUC);LH 1626;Wylądował 23:25;Szczegóły lotu;
 BOLONIA (BLQ);W6 2060;Wylądował 23:23;Szczegóły lotu;
-RZYM FIUMICINO (FCO);W6 2062;Oczekiwany 23:26;Szczegóły lotu;
-WIEDEŃ (VIE);OS 599;Oczekiwany 00:05;Szczegóły lotu;
-FRANKFURT (FRA);LH 1370;Oczekiwany 23:40;Szczegóły lotu;
-WARSZAWA (WAW);LO 3911;Oczekiwany 23:43;Szczegóły lotu;
+RZYM FIUMICINO (FCO);W6 2062;Wylądował 23:27;Szczegóły lotu;
+WIEDEŃ (VIE);OS 599;Oczekiwany 00:06;Szczegóły lotu;
+FRANKFURT (FRA);LH 1370;Wylądował 23:38;Szczegóły lotu;
+WARSZAWA (WAW);LO 3911;Oczekiwany 23:41;Szczegóły lotu;
 LONDYN GATWICK (LGW);W6 2010;Oczekiwany 00:01;Szczegóły lotu;
 MALAGA (AGP);W6 2074;Oczekiwany 00:13;Szczegóły lotu;
 WALENCJA (VLC);FR 2228;Oczekiwany 00:23;Szczegóły lotu;
 MEDIOLAN BERGAMO (BGY);FR 3535;;Szczegóły lotu;
 BARI (BRI);FR 2723;;Szczegóły lotu;
-MADRYT (MAD);FR 5356;Oczekiwany 00:31;Szczegóły lotu;
-LONDYN STANSTED (STN);FR 2432;Oczekiwany 01:07;Szczegóły lotu;
-BOURNEMOUTH (BOH);FR 5523;Oczekiwany 01:02;Szczegóły lotu;
+MADRYT (MAD);FR 5356;Oczekiwany 00:30;Szczegóły lotu;
+LONDYN STANSTED (STN);FR 2432;Oczekiwany 01:06;Szczegóły lotu;
+BOURNEMOUTH (BOH);FR 5523;Oczekiwany 01:00;Szczegóły lotu;
 SALONIKI (SKG);FR 2778;;Szczegóły lotu;
-MALTA (MLA);FR 7114;;Szczegóły lotu;
+MALTA (MLA);FR 7114;Oczekiwany 01:44;Szczegóły lotu;
 ANTALIA (AYT);XQ 432;;Szczegóły lotu;
 KOPENHAGA (CPH);FR 2725;;Szczegóły lotu;
 SOFIA (SOF);W6 4453;;Szczegóły lotu;
