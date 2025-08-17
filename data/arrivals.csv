@@ -1,16 +1,16 @@
 planned_time;flight_number;from;status;airline
 LONDYN LUTON (LTN);FR 1813;Wylądował 19:30;Szczegóły lotu;
 MEDIOLAN BERGAMO (BGY);FR 888;Oczekiwany 20:27;Szczegóły lotu;
-PARYŻ BEAUVAIS (BVA);FR 3698;Oczekiwany 19:42;Szczegóły lotu;
+PARYŻ BEAUVAIS (BVA);FR 3698;Wylądował 19:42;Szczegóły lotu;
 BELGRAD (BEG);JU 158;Oczekiwany 20:09;Szczegóły lotu;
-MANCHESTER (MAN);LS 949;Oczekiwany 19:48;Szczegóły lotu;
-KOPENHAGA (CPH);FR 2725;Lot opóźniony;Szczegóły lotu;
+MANCHESTER (MAN);LS 949;Wylądował 19:50;Szczegóły lotu;
+KOPENHAGA (CPH);FR 2725;Oczekiwany 20:57;Szczegóły lotu;
 WARSZAWA (WAW);LO 3921;;Szczegóły lotu;
-MANCHESTER (MAN);RK 2141;Oczekiwany 21:37;Szczegóły lotu;
+MANCHESTER (MAN);RK 2141;Oczekiwany 21:38;Szczegóły lotu;
 WIEDEŃ (VIE);FR 947;;Szczegóły lotu;
 LONDYN GATWICK (LGW);EZY 8823;;Szczegóły lotu;
-OSLO GARDERMOEN (OSL);DY 1042;Oczekiwany 21:14;Szczegóły lotu;
-PALMA DE MALLORCA (PMI);FR 4511;;Szczegóły lotu;
+OSLO GARDERMOEN (OSL);DY 1042;Oczekiwany 21:13;Szczegóły lotu;
+PALMA DE MALLORCA (PMI);FR 4511;Oczekiwany 22:19;Szczegóły lotu;
 SZTOKHOLM ARLANDA (ARN);FR 4635;;Szczegóły lotu;
 DUBLIN (DUB);FR 1901;;Szczegóły lotu;
 AMSTERDAM (AMS);KL 1331;;Szczegóły lotu;
