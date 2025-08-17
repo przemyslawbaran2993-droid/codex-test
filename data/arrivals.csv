@@ -1,14 +1,14 @@
 planned_time;flight_number;from;status;airline
 KOPENHAGA (CPH);D8 3562;Wylądował 16:30;Szczegóły lotu;
 TURYN (TRN);FR 5905;Wylądował 16:37;Szczegóły lotu;
-SALONIKI (SKG);FR 7227;;Szczegóły lotu;
-SHARJAH (SHJ);G9 748;Oczekiwany 17:19;Szczegóły lotu;
-RODOS (RHO);FR 7041;Oczekiwany 17:36;Szczegóły lotu;
+SALONIKI (SKG);FR 7227;Lot opóźniony;Szczegóły lotu;
+SHARJAH (SHJ);G9 748;Oczekiwany 17:18;Szczegóły lotu;
+RODOS (RHO);FR 7041;Oczekiwany 17:30;Szczegóły lotu;
 EINDHOVEN (EIN);W6 2076;Oczekiwany 17:09;Szczegóły lotu;
 WARSZAWA (WAW);LO 3923;;Szczegóły lotu;
-CHANIA (CHQ);FR 3052;;Szczegóły lotu;
+CHANIA (CHQ);FR 3052;Lot opóźniony;Szczegóły lotu;
 DUBAJ (DXB);FZ 1503;Oczekiwany 17:26;Szczegóły lotu;
-ANTALIA (AYT);PC 1502;Oczekiwany 18:11;Szczegóły lotu;
+ANTALIA (AYT);PC 1502;Oczekiwany 18:07;Szczegóły lotu;
 OSLO GARDERMOEN (OSL);W6 2034;Oczekiwany 18:08;Szczegóły lotu;
 HELSINKI (HEL);AY 1163;Oczekiwany 18:00;Szczegóły lotu;
 PORTO (OPO);FR 3048;Oczekiwany 18:25;Szczegóły lotu;
