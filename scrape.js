@@ -32,6 +32,18 @@ const userAgent = 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 
           };
         })
       );
+    const rows = await page.$$eval('table tbody tr', trs =>
+      trs.map(tr => {
+        const tds = Array.from(tr.querySelectorAll('td')).map(td => td.textContent.trim());
+        return {
+          time: tds[0] || '',
+          flight: tds[1] || '',
+          from: tds[2] || '',
+          status: tds[3] || '',
+          airline: tds[4] || '',
+        };
+      })
+    );
     saveCsv(rows);
   } catch (err) {
     console.error('HTML parsing failed:', err.message);
@@ -46,7 +58,9 @@ const userAgent = 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 
           const items = Array.isArray(json) ? json : json.data || json.items || [];
           if (Array.isArray(items) && items.length) {
             const rows = items.map(item => ({
+
               planned: (item.time || item.planned || item.eta || item.sta || item.schedule || '').replace('.', ':'),
+              time: item.time || item.planned || item.eta || item.sta || item.schedule || '',
               flight: item.flight || item.flightNo || item.number || '',
               from: item.from || item.origin || item.direction || '',
               status: item.status || '',
@@ -73,6 +87,8 @@ const userAgent = 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 
         headers.join(';'),
         ...rows.map(r => `${r.planned};${r.flight};${r.from};${r.status};${r.airline}`),
       ];
+    const headers = ['planned_time', 'flight_number', 'from', 'status', 'airline'];
+    const csvLines = [headers.join(';'), ...rows.map(r => `${r.time};${r.flight};${r.from};${r.status};${r.airline}`)];
     fs.mkdirSync(path.join(__dirname, 'data'), { recursive: true });
     fs.writeFileSync(path.join(__dirname, 'data', 'arrivals.csv'), csvLines.join('\n') + '\n', 'utf8');
     console.log(csvLines.slice(0, 6).join('\n'));
