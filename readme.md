@@ -1,2 +1,0 @@
-# codex-test
-Initial commit
